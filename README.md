@@ -1,0 +1,2 @@
+# blog
+Notes during development
