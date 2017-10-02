@@ -1,6 +1,5 @@
-# blog
-Notes during development
-
+# Thoughts should be on the paper
+Table of contents:
 * [Hnefatafl intro animation](171002.md)
 * [Move Hnefatafl to Firebase](171002.md)
 * [How to set up my server](170928.md)
